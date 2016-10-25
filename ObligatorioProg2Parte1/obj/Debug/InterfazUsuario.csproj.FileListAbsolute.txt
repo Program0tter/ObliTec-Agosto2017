@@ -1,0 +1,8 @@
+C:\Users\Ninja\Desktop\Obligatorio newvers\ObligatorioProg2Parte1\bin\Debug\ObligatorioProg2Parte1.exe.config
+C:\Users\Ninja\Desktop\Obligatorio newvers\ObligatorioProg2Parte1\bin\Debug\ObligatorioProg2Parte1.exe
+C:\Users\Ninja\Desktop\Obligatorio newvers\ObligatorioProg2Parte1\bin\Debug\ObligatorioProg2Parte1.pdb
+C:\Users\Ninja\Desktop\Obligatorio newvers\ObligatorioProg2Parte1\bin\Debug\Dominio.dll
+C:\Users\Ninja\Desktop\Obligatorio newvers\ObligatorioProg2Parte1\bin\Debug\Dominio.pdb
+C:\Users\Ninja\Desktop\Obligatorio newvers\ObligatorioProg2Parte1\obj\Debug\InterfazUsuario.csprojResolveAssemblyReference.cache
+C:\Users\Ninja\Desktop\Obligatorio newvers\ObligatorioProg2Parte1\obj\Debug\ObligatorioProg2Parte1.exe
+C:\Users\Ninja\Desktop\Obligatorio newvers\ObligatorioProg2Parte1\obj\Debug\ObligatorioProg2Parte1.pdb

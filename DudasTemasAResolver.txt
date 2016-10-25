@@ -1,0 +1,2 @@
+El ToString() de Mecanico devuelve que el mecanico esta capacitado extra o no. Esto es redundante cuando se muestra la lista de mecanicos sin capacitacion. Estaria bueno sacarlo.
+Mejorar la comprobacion de 'fecha' para que sea un metodo que busque tres caracteres / en ves de un simple indexOf('/')

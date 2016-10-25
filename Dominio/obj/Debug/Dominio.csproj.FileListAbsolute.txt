@@ -1,0 +1,4 @@
+C:\Users\Ninja\Desktop\Obligatorio newvers\Dominio\bin\Debug\Dominio.dll
+C:\Users\Ninja\Desktop\Obligatorio newvers\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Ninja\Desktop\Obligatorio newvers\Dominio\obj\Debug\Dominio.dll
+C:\Users\Ninja\Desktop\Obligatorio newvers\Dominio\obj\Debug\Dominio.pdb

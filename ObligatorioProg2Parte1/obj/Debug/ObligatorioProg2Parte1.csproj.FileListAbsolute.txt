@@ -1,0 +1,16 @@
+c:\users\ninja\documents\visual studio 2015\Projects\ObligatorioProg2Parte1\ObligatorioProg2Parte1\bin\Debug\ObligatorioProg2Parte1.exe.config
+C:\Users\FAT\Desktop\Obli\ObligatorioProg2Parte1\bin\Debug\ObligatorioProg2Parte1.exe.config
+C:\Users\FAT\Desktop\Obli\ObligatorioProg2Parte1\obj\Debug\ObligatorioProg2Parte1.csprojResolveAssemblyReference.cache
+C:\Users\FAT\Desktop\ObligatorioProg2-master\Obli\ObligatorioProg2Parte1\bin\Debug\ObligatorioProg2Parte1.exe.config
+C:\Users\Ninja\Desktop\ObligatorioProg2-master\ObligatorioProg2-master\Obli\ObligatorioProg2Parte1\bin\Debug\ObligatorioProg2Parte1.exe.config
+C:\Users\Ninja\Desktop\ObligatorioProg2-master\ObligatorioProg2-master\Obli\ObligatorioProg2Parte1\obj\Debug\ObligatorioProg2Parte1.csprojResolveAssemblyReference.cache
+C:\Users\Ninja\Desktop\ObligatorioProg2-master\ObligatorioProg2-master\Obli\ObligatorioProg2Parte1\bin\Debug\ObligatorioProg2Parte1.exe
+C:\Users\Ninja\Desktop\ObligatorioProg2-master\ObligatorioProg2-master\Obli\ObligatorioProg2Parte1\bin\Debug\ObligatorioProg2Parte1.pdb
+C:\Users\Ninja\Desktop\ObligatorioProg2-master\ObligatorioProg2-master\Obli\ObligatorioProg2Parte1\obj\Debug\ObligatorioProg2Parte1.exe
+C:\Users\Ninja\Desktop\ObligatorioProg2-master\ObligatorioProg2-master\Obli\ObligatorioProg2Parte1\obj\Debug\ObligatorioProg2Parte1.pdb
+C:\Users\Ninja\Desktop\Obligatorio newvers\ObligatorioProg2Parte1\bin\Debug\ObligatorioProg2Parte1.exe.config
+C:\Users\Ninja\Desktop\Obligatorio newvers\ObligatorioProg2Parte1\obj\Debug\ObligatorioProg2Parte1.exe
+C:\Users\Ninja\Desktop\Obligatorio newvers\ObligatorioProg2Parte1\obj\Debug\ObligatorioProg2Parte1.pdb
+C:\Users\Ninja\Desktop\Obligatorio newvers\ObligatorioProg2Parte1\obj\Debug\ObligatorioProg2Parte1.csprojResolveAssemblyReference.cache
+C:\Users\Ninja\Desktop\Obligatorio newvers\ObligatorioProg2Parte1\bin\Debug\ObligatorioProg2Parte1.exe
+C:\Users\Ninja\Desktop\Obligatorio newvers\ObligatorioProg2Parte1\bin\Debug\ObligatorioProg2Parte1.pdb
